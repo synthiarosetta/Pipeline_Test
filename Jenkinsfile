@@ -17,7 +17,4 @@ pipeline {
       }
     }
   }
-  environment {
-    Test = '1'
-  }
 }
